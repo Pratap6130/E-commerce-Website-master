@@ -67,8 +67,7 @@ E-commerce-Website-master/
    - Frontend: `http://localhost:3000`
    - Backend API: `http://localhost:5000`
 
-## 📽️ Live Demo
-[Click here to view the live demo](#) *(Replace with actual demo link when available)*
+
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/aeef0d7d-68d0-474c-8d9c-df65347877a9)
